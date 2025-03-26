@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: P2Project
+  gitServerName: git
+  gitUrl: https://github.com/Anguraj-IBM
+  gitUsername: Anguraj-IBM
+  gitBranch: main
